@@ -53,12 +53,14 @@ var resultTwo = 480;
 //
 // EXERCISE 8.
 
-console.log(monkeys++); // 15
+monkeys++;
+console.log("Monkeys incremented is " + monkeys); // 15
 
 //
 // EXERCISE 9.
 
-console.log(bananas--); // 9
+bananas--;
+console.log("Bananas decremented is " + bananas); // 9
 
 //
 // EXERCISE 10.
